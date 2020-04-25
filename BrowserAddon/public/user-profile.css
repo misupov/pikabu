@@ -1,0 +1,46 @@
+.main__inner .profile__section > .profile__digital.peoplemeter-active {
+  color: var(--color--text_link);
+}
+
+.main__inner .profile__section > .profile__digital.peoplemeter-active > b {
+  color: var(--color--text_link);
+}
+
+.main__inner .profile__section > .profile__digital:nth-child(3):hover > b {
+  color: var(--color--text_link);
+}
+
+.main__inner .profile__section > .profile__digital:nth-child(3):hover {
+  color: var(--color--text_link);
+}
+
+.main__inner .profile__section > .profile__digital:nth-child(3) {
+  cursor: pointer;
+}
+
+.main__inner .profile__section > .profile__digital:nth-child(4):hover > b {
+  color: var(--color--text_link);
+}
+
+.main__inner .profile__section > .profile__digital:nth-child(4):hover {
+  color: var(--color--text_link);
+}
+
+.main__inner .profile__section > .profile__digital:nth-child(4) {
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+.profile_stat li.peoplemeter-active .profile_stat_count {
+  color: #78c062;
+}
+
+.profile_stat li.peoplemeter-active .profile_stat_title {
+  color: #78c062;
+}
