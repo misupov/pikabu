@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PikaFetcher": {
+      "commandName": "Project",
+      "commandLineArgs": "period=0.5h databasetype=sqlite database=pikabu.db"
+    }
+  }
+}
